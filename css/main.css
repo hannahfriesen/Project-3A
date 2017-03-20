@@ -93,8 +93,9 @@ body {
 
 .center-me {
   background-image: url(http://cdn.narcity.com/vancouver/wp-content/uploads/sites/6/2016/04/lacasa.jpg);
-  width: 768px;
-  height: 800px;
+  background-size: cover;
+  width: 708px;
+  height: 673px;
   padding: 30px;
   display: inline-block;
   flex-direction: column;
